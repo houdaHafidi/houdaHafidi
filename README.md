@@ -17,8 +17,9 @@ I'm a Data Science Master's EPFL student with a passion for the theoretical and 
 * **Tools:** Git, Jupyter, w&b
 ### Some old Projects : 
 * **[MLP From Scratch](https://github.com/houdaHafidi/MLP-From-Scratch) :** A pure Python/NumPy implementation of a Multi-Layer Perceptron focusing on vectorized backpropagation, activation derivatives, and numerical optimization.
+* **[In Progress] RL Agent for Dynamic Evasion:** Designing and training a Reinforcement Learning agent (using Q-Learning / Deep Q-Networks) to reach a target destination while dynamically avoiding an interactive cursor.
 
 ### 🤭 Connect with Me ?
 - **LinkedIn:** https://www.linkedin.com/in/houda-hafidi-7a4855355/
 
-  ### Remember 👴 : "The only obstacle is your imagination ;)" ###
+  ### 👴 : "The only obstacle is your imagination ;)" ###
