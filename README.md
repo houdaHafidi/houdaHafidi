@@ -15,6 +15,8 @@ I'm a Data Science Master's EPFL student with a passion for the theoretical and 
 * **Languages:** Python 🐍, Java , C , Scala, SQL (under construction 🛠️)
 * **Data & ML:** Pandas, NumPy, Scikit-Learn, TensorFlow / PyTorch
 * **Tools:** Git, Jupyter, w&b
+### Some old Projects : 
+* **[MLP From Scratch](https://github.com/houdaHafidi/MLP-From-Scratch) :** A pure Python/NumPy implementation of a Multi-Layer Perceptron focusing on vectorized backpropagation, activation derivatives, and numerical optimization.
 
 ### 🤭 Connect with Me ?
 - **LinkedIn:** https://www.linkedin.com/in/houda-hafidi-7a4855355/
