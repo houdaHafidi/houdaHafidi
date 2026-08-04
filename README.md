@@ -15,7 +15,7 @@ I'm a Data Science Master's EPFL student with a passion for the theoretical and 
 * **Languages:** Python 🐍, Java , C , Scala, SQL (under construction 🛠️)
 * **Data & ML:** Pandas, NumPy, Scikit-Learn, TensorFlow / PyTorch
 * **Tools:** Git, Jupyter, w&b
-### Some old Projects : 
+### Some Projects : 
 * **[MLP From Scratch](https://github.com/houdaHafidi/MLP-From-Scratch) :** A pure Python/NumPy implementation of a Multi-Layer Perceptron focusing on vectorized backpropagation, activation derivatives, and numerical optimization.
 * **[In Progress] RL Agent for Dynamic Evasion:** Designing and training a Reinforcement Learning agent (using Q-Learning / Deep Q-Networks) to reach a target destination while dynamically avoiding an interactive cursor.
 
